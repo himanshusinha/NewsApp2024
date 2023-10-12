@@ -73,13 +73,13 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.junedomingo.NewsApp2024"
+    namespace "com.himanshusinhaa.NewsApp2024"
     defaultConfig {
-        applicationId "com.junedomingo.NewsApp2024"
+        applicationId "com.himanshusinhaa.NewsApp2024"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "2.0"
     }
     signingConfigs {
         release {
