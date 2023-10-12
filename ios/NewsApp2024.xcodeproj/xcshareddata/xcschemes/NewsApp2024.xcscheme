@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "NewsApp24.app"
-               BlueprintName = "NewsApp24"
-               ReferencedContainer = "container:NewsApp24.xcodeproj">
+               BuildableName = "NewsApp2024.app"
+               BlueprintName = "NewsApp2024"
+               ReferencedContainer = "container:NewsApp2024.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "NewsApp24Tests.xctest"
-               BlueprintName = "NewsApp24Tests"
-               ReferencedContainer = "container:NewsApp24.xcodeproj">
+               BuildableName = "NewsApp2024Tests.xctest"
+               BlueprintName = "NewsApp2024Tests"
+               ReferencedContainer = "container:NewsApp2024.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "NewsApp24.app"
-            BlueprintName = "NewsApp24"
-            ReferencedContainer = "container:NewsApp24.xcodeproj">
+            BuildableName = "NewsApp2024.app"
+            BlueprintName = "NewsApp2024"
+            ReferencedContainer = "container:NewsApp2024.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "NewsApp24.app"
-            BlueprintName = "NewsApp24"
-            ReferencedContainer = "container:NewsApp24.xcodeproj">
+            BuildableName = "NewsApp2024.app"
+            BlueprintName = "NewsApp2024"
+            ReferencedContainer = "container:NewsApp2024.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

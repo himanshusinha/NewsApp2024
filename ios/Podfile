@@ -25,7 +25,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'NewsApp24' do
+target 'NewsApp2024' do
   config = use_native_modules!
 
   # Flags change depending on the env values.
@@ -45,7 +45,7 @@ target 'NewsApp24' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'NewsApp24Tests' do
+  target 'NewsApp2024Tests' do
     inherit! :complete
     # Pods for testing
   end

@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.newsapp24"
+    namespace "com.junedomingo.NewsApp2024"
     defaultConfig {
-        applicationId "com.newsapp24"
+        applicationId "com.junedomingo.NewsApp2024"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

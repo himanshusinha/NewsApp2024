@@ -1,4 +1,4 @@
-package com.newsapp24;
+package com.himanshusinhaa.NewsApp2024;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "NewsApp24";
+    return "NewsApp2024";
   }
 
   /**
